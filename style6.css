@@ -73,7 +73,6 @@ body {
 
 /* MENU BUTTONS */
 .menu {
-    float:right;
     display: flex;
     flex-direction: column;
     gap: 12px;
@@ -99,7 +98,6 @@ body {
 
 /* CONTENT */
 .content {
-    float:left;
     background-color: #FFF9FB;
     padding: 30px;
     border-radius: 15px;
