@@ -73,6 +73,7 @@ body {
 
 /* MENU BUTTONS */
 .menu {
+    float:right;
     display: flex;
     flex-direction: column;
     gap: 12px;
